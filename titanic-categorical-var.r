@@ -3,22 +3,22 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "e64053bc",
+   "id": "47d9023c",
    "metadata": {
     "_execution_state": "idle",
     "_kg_hide-output": true,
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:39.594811Z",
-     "iopub.status.busy": "2022-04-05T10:56:39.591674Z",
-     "iopub.status.idle": "2022-04-05T10:56:41.215787Z",
-     "shell.execute_reply": "2022-04-05T10:56:41.213278Z"
+     "iopub.execute_input": "2022-04-05T11:52:34.686987Z",
+     "iopub.status.busy": "2022-04-05T11:52:34.684637Z",
+     "iopub.status.idle": "2022-04-05T11:52:35.978202Z",
+     "shell.execute_reply": "2022-04-05T11:52:35.977493Z"
     },
     "papermill": {
-     "duration": 1.719898,
-     "end_time": "2022-04-05T10:56:41.216033",
+     "duration": 1.389179,
+     "end_time": "2022-04-05T11:52:35.978360",
      "exception": false,
-     "start_time": "2022-04-05T10:56:39.496135",
+     "start_time": "2022-04-05T11:52:34.589181",
      "status": "completed"
     },
     "tags": []
@@ -72,19 +72,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "86a293ef",
+   "id": "3de765f2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:41.446665Z",
-     "iopub.status.busy": "2022-04-05T10:56:41.408435Z",
-     "iopub.status.idle": "2022-04-05T10:56:41.507873Z",
-     "shell.execute_reply": "2022-04-05T10:56:41.505635Z"
+     "iopub.execute_input": "2022-04-05T11:52:36.206252Z",
+     "iopub.status.busy": "2022-04-05T11:52:36.173701Z",
+     "iopub.status.idle": "2022-04-05T11:52:36.253908Z",
+     "shell.execute_reply": "2022-04-05T11:52:36.252747Z"
     },
     "papermill": {
-     "duration": 0.198431,
-     "end_time": "2022-04-05T10:56:41.508077",
+     "duration": 0.178974,
+     "end_time": "2022-04-05T11:52:36.254056",
      "exception": false,
-     "start_time": "2022-04-05T10:56:41.309646",
+     "start_time": "2022-04-05T11:52:36.075082",
      "status": "completed"
     },
     "tags": []
@@ -118,13 +118,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "86a17a37",
+   "id": "8172f9aa",
    "metadata": {
     "papermill": {
-     "duration": 0.093958,
-     "end_time": "2022-04-05T10:56:41.697795",
+     "duration": 0.097539,
+     "end_time": "2022-04-05T11:52:36.449202",
      "exception": false,
-     "start_time": "2022-04-05T10:56:41.603837",
+     "start_time": "2022-04-05T11:52:36.351663",
      "status": "completed"
     },
     "tags": []
@@ -135,13 +135,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "883ebc0b",
+   "id": "b45f4ce8",
    "metadata": {
     "papermill": {
-     "duration": 0.092466,
-     "end_time": "2022-04-05T10:56:41.889997",
+     "duration": 0.094703,
+     "end_time": "2022-04-05T11:52:36.638988",
      "exception": false,
-     "start_time": "2022-04-05T10:56:41.797531",
+     "start_time": "2022-04-05T11:52:36.544285",
      "status": "completed"
     },
     "tags": []
@@ -152,13 +152,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b2198b06",
+   "id": "5d1791ab",
    "metadata": {
     "papermill": {
-     "duration": 0.092127,
-     "end_time": "2022-04-05T10:56:42.075526",
+     "duration": 0.094969,
+     "end_time": "2022-04-05T11:52:36.828823",
      "exception": false,
-     "start_time": "2022-04-05T10:56:41.983399",
+     "start_time": "2022-04-05T11:52:36.733854",
      "status": "completed"
     },
     "tags": []
@@ -171,13 +171,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b870d93f",
+   "id": "ffcbe227",
    "metadata": {
     "papermill": {
-     "duration": 0.09569,
-     "end_time": "2022-04-05T10:56:42.263270",
+     "duration": 0.096084,
+     "end_time": "2022-04-05T11:52:37.019823",
      "exception": false,
-     "start_time": "2022-04-05T10:56:42.167580",
+     "start_time": "2022-04-05T11:52:36.923739",
      "status": "completed"
     },
     "tags": []
@@ -189,19 +189,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "a22ed8a6",
+   "id": "880b1662",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:42.451896Z",
-     "iopub.status.busy": "2022-04-05T10:56:42.449482Z",
-     "iopub.status.idle": "2022-04-05T10:56:42.510150Z",
-     "shell.execute_reply": "2022-04-05T10:56:42.507733Z"
+     "iopub.execute_input": "2022-04-05T11:52:37.217302Z",
+     "iopub.status.busy": "2022-04-05T11:52:37.215195Z",
+     "iopub.status.idle": "2022-04-05T11:52:37.262777Z",
+     "shell.execute_reply": "2022-04-05T11:52:37.260919Z"
     },
     "papermill": {
-     "duration": 0.157746,
-     "end_time": "2022-04-05T10:56:42.510370",
+     "duration": 0.147867,
+     "end_time": "2022-04-05T11:52:37.262930",
      "exception": false,
-     "start_time": "2022-04-05T10:56:42.352624",
+     "start_time": "2022-04-05T11:52:37.115063",
      "status": "completed"
     },
     "tags": []
@@ -257,13 +257,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "761e0bc2",
+   "id": "5043ea90",
    "metadata": {
     "papermill": {
-     "duration": 0.092575,
-     "end_time": "2022-04-05T10:56:42.695812",
+     "duration": 0.097783,
+     "end_time": "2022-04-05T11:52:37.458951",
      "exception": false,
-     "start_time": "2022-04-05T10:56:42.603237",
+     "start_time": "2022-04-05T11:52:37.361168",
      "status": "completed"
     },
     "tags": []
@@ -277,19 +277,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "b5402496",
+   "id": "842fcff5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:42.889399Z",
-     "iopub.status.busy": "2022-04-05T10:56:42.886777Z",
-     "iopub.status.idle": "2022-04-05T10:56:43.018056Z",
-     "shell.execute_reply": "2022-04-05T10:56:43.015848Z"
+     "iopub.execute_input": "2022-04-05T11:52:37.663031Z",
+     "iopub.status.busy": "2022-04-05T11:52:37.660934Z",
+     "iopub.status.idle": "2022-04-05T11:52:37.771878Z",
+     "shell.execute_reply": "2022-04-05T11:52:37.770026Z"
     },
     "papermill": {
-     "duration": 0.229437,
-     "end_time": "2022-04-05T10:56:43.018363",
+     "duration": 0.214504,
+     "end_time": "2022-04-05T11:52:37.772032",
      "exception": false,
-     "start_time": "2022-04-05T10:56:42.788926",
+     "start_time": "2022-04-05T11:52:37.557528",
      "status": "completed"
     },
     "tags": []
@@ -386,13 +386,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ecc5a9b9",
+   "id": "31338a4e",
    "metadata": {
     "papermill": {
-     "duration": 0.098978,
-     "end_time": "2022-04-05T10:56:43.218547",
+     "duration": 0.104235,
+     "end_time": "2022-04-05T11:52:37.981791",
      "exception": false,
-     "start_time": "2022-04-05T10:56:43.119569",
+     "start_time": "2022-04-05T11:52:37.877556",
      "status": "completed"
     },
     "tags": []
@@ -403,13 +403,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "27e5fc76",
+   "id": "98ecc839",
    "metadata": {
     "papermill": {
-     "duration": 0.104774,
-     "end_time": "2022-04-05T10:56:43.429679",
+     "duration": 0.104913,
+     "end_time": "2022-04-05T11:52:38.190261",
      "exception": false,
-     "start_time": "2022-04-05T10:56:43.324905",
+     "start_time": "2022-04-05T11:52:38.085348",
      "status": "completed"
     },
     "tags": []
@@ -421,19 +421,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "b9d32728",
+   "id": "66c08fcf",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:43.638256Z",
-     "iopub.status.busy": "2022-04-05T10:56:43.635766Z",
-     "iopub.status.idle": "2022-04-05T10:56:43.683256Z",
-     "shell.execute_reply": "2022-04-05T10:56:43.680993Z"
+     "iopub.execute_input": "2022-04-05T11:52:38.406147Z",
+     "iopub.status.busy": "2022-04-05T11:52:38.404113Z",
+     "iopub.status.idle": "2022-04-05T11:52:38.440297Z",
+     "shell.execute_reply": "2022-04-05T11:52:38.438480Z"
     },
     "papermill": {
-     "duration": 0.152327,
-     "end_time": "2022-04-05T10:56:43.683492",
+     "duration": 0.144659,
+     "end_time": "2022-04-05T11:52:38.440467",
      "exception": false,
-     "start_time": "2022-04-05T10:56:43.531165",
+     "start_time": "2022-04-05T11:52:38.295808",
      "status": "completed"
     },
     "tags": []
@@ -490,13 +490,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3a480485",
+   "id": "c4bbc29d",
    "metadata": {
     "papermill": {
-     "duration": 0.104011,
-     "end_time": "2022-04-05T10:56:43.891579",
+     "duration": 0.106943,
+     "end_time": "2022-04-05T11:52:38.654263",
      "exception": false,
-     "start_time": "2022-04-05T10:56:43.787568",
+     "start_time": "2022-04-05T11:52:38.547320",
      "status": "completed"
     },
     "tags": []
@@ -510,19 +510,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "8caa4609",
+   "id": "69e64c05",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:44.110071Z",
-     "iopub.status.busy": "2022-04-05T10:56:44.107556Z",
-     "iopub.status.idle": "2022-04-05T10:56:44.174784Z",
-     "shell.execute_reply": "2022-04-05T10:56:44.172434Z"
+     "iopub.execute_input": "2022-04-05T11:52:38.875259Z",
+     "iopub.status.busy": "2022-04-05T11:52:38.873170Z",
+     "iopub.status.idle": "2022-04-05T11:52:38.927875Z",
+     "shell.execute_reply": "2022-04-05T11:52:38.926257Z"
     },
     "papermill": {
-     "duration": 0.180885,
-     "end_time": "2022-04-05T10:56:44.174979",
+     "duration": 0.16626,
+     "end_time": "2022-04-05T11:52:38.928023",
      "exception": false,
-     "start_time": "2022-04-05T10:56:43.994094",
+     "start_time": "2022-04-05T11:52:38.761763",
      "status": "completed"
     },
     "tags": []
@@ -618,13 +618,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "753dc9e4",
+   "id": "af39ad83",
    "metadata": {
     "papermill": {
-     "duration": 0.113103,
-     "end_time": "2022-04-05T10:56:44.395067",
+     "duration": 0.113654,
+     "end_time": "2022-04-05T11:52:39.155226",
      "exception": false,
-     "start_time": "2022-04-05T10:56:44.281964",
+     "start_time": "2022-04-05T11:52:39.041572",
      "status": "completed"
     },
     "tags": []
@@ -635,13 +635,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "241cff76",
+   "id": "183972a1",
    "metadata": {
     "papermill": {
-     "duration": 0.10786,
-     "end_time": "2022-04-05T10:56:44.614656",
+     "duration": 0.113493,
+     "end_time": "2022-04-05T11:52:39.382335",
      "exception": false,
-     "start_time": "2022-04-05T10:56:44.506796",
+     "start_time": "2022-04-05T11:52:39.268842",
      "status": "completed"
     },
     "tags": []
@@ -652,13 +652,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "441791c0",
+   "id": "385549b5",
    "metadata": {
     "papermill": {
-     "duration": 0.106817,
-     "end_time": "2022-04-05T10:56:44.829058",
+     "duration": 0.112757,
+     "end_time": "2022-04-05T11:52:39.608033",
      "exception": false,
-     "start_time": "2022-04-05T10:56:44.722241",
+     "start_time": "2022-04-05T11:52:39.495276",
      "status": "completed"
     },
     "tags": []
@@ -672,22 +672,22 @@
     "\n",
     "| variables_names                            | variables | coefficient | lower_95 | upper_95 | p_value |\n",
     "|--------------------------------------------|-----------|-------------|----------|----------|---------|\n",
-    "| Sex                                        | Sex       |             |          |          |         |\n",
-    "| Age                                        | Age       |             |          |          |         |\n",
-    "| # of siblings / spouses aboard the Titanic | SibSp     |             |          |          |         |\n",
-    "| # of parents / children aboard the Titanic | Parch     |             |          |          |         |\n",
-    "| Passenger fare                             | Fare      |             |          |          |         |"
+    "| Sex                                        | Sex       | 0.081       |  0.058   | 0.112    | 0       |\n",
+    "| Age                                        | Age       | 0.989       |  0.9787  | 0.9995   | 0.0397  |\n",
+    "| # of siblings / spouses aboard the Titanic | SibSp     | 0.934       |  0.817   | 1.058    | 0.294   |\n",
+    "| # of parents / children aboard the Titanic | Parch     | 1.225       |  1.039   | 1.449    | 0.0163  |\n",
+    "| Passenger fare                             | Fare      | 1.0153      |  1.011   | 1.012    | 0       |"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "8b49a1ca",
+   "id": "4cdde9f1",
    "metadata": {
     "papermill": {
-     "duration": 0.116304,
-     "end_time": "2022-04-05T10:56:45.056540",
+     "duration": 0.114433,
+     "end_time": "2022-04-05T11:52:39.836407",
      "exception": false,
-     "start_time": "2022-04-05T10:56:44.940236",
+     "start_time": "2022-04-05T11:52:39.721974",
      "status": "completed"
     },
     "tags": []
@@ -699,19 +699,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "5fed764a",
+   "id": "1b72b7c2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:45.297863Z",
-     "iopub.status.busy": "2022-04-05T10:56:45.295467Z",
-     "iopub.status.idle": "2022-04-05T10:56:45.334183Z",
-     "shell.execute_reply": "2022-04-05T10:56:45.331979Z"
+     "iopub.execute_input": "2022-04-05T11:52:40.070328Z",
+     "iopub.status.busy": "2022-04-05T11:52:40.069662Z",
+     "iopub.status.idle": "2022-04-05T11:52:40.096849Z",
+     "shell.execute_reply": "2022-04-05T11:52:40.095214Z"
     },
     "papermill": {
-     "duration": 0.162306,
-     "end_time": "2022-04-05T10:56:45.334384",
+     "duration": 0.147283,
+     "end_time": "2022-04-05T11:52:40.096991",
      "exception": false,
-     "start_time": "2022-04-05T10:56:45.172078",
+     "start_time": "2022-04-05T11:52:39.949708",
      "status": "completed"
     },
     "tags": []
@@ -780,13 +780,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2c05cb8f",
+   "id": "4ea64816",
    "metadata": {
     "papermill": {
-     "duration": 0.111262,
-     "end_time": "2022-04-05T10:56:45.560860",
+     "duration": 0.115912,
+     "end_time": "2022-04-05T11:52:40.329698",
      "exception": false,
-     "start_time": "2022-04-05T10:56:45.449598",
+     "start_time": "2022-04-05T11:52:40.213786",
      "status": "completed"
     },
     "tags": []
@@ -800,19 +800,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "7971c8be",
+   "id": "c174ba3f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:45.796818Z",
-     "iopub.status.busy": "2022-04-05T10:56:45.794586Z",
-     "iopub.status.idle": "2022-04-05T10:56:45.992629Z",
-     "shell.execute_reply": "2022-04-05T10:56:45.990956Z"
+     "iopub.execute_input": "2022-04-05T11:52:40.568744Z",
+     "iopub.status.busy": "2022-04-05T11:52:40.567772Z",
+     "iopub.status.idle": "2022-04-05T11:52:40.707657Z",
+     "shell.execute_reply": "2022-04-05T11:52:40.706102Z"
     },
     "papermill": {
-     "duration": 0.317048,
-     "end_time": "2022-04-05T10:56:45.992796",
+     "duration": 0.262306,
+     "end_time": "2022-04-05T11:52:40.707811",
      "exception": false,
-     "start_time": "2022-04-05T10:56:45.675748",
+     "start_time": "2022-04-05T11:52:40.445505",
      "status": "completed"
     },
     "tags": []
@@ -927,13 +927,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "32e80ae7",
+   "id": "a615bf48",
    "metadata": {
     "papermill": {
-     "duration": 0.117463,
-     "end_time": "2022-04-05T10:56:46.230255",
+     "duration": 0.125949,
+     "end_time": "2022-04-05T11:52:40.956251",
      "exception": false,
-     "start_time": "2022-04-05T10:56:46.112792",
+     "start_time": "2022-04-05T11:52:40.830302",
      "status": "completed"
     },
     "tags": []
@@ -946,13 +946,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "84d4a2e2",
+   "id": "d5ad36de",
    "metadata": {
     "papermill": {
-     "duration": 0.119818,
-     "end_time": "2022-04-05T10:56:46.489020",
+     "duration": 0.124454,
+     "end_time": "2022-04-05T11:52:41.203142",
      "exception": false,
-     "start_time": "2022-04-05T10:56:46.369202",
+     "start_time": "2022-04-05T11:52:41.078688",
      "status": "completed"
     },
     "tags": []
@@ -963,13 +963,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "a78a1533",
+   "id": "8aeafa5e",
    "metadata": {
     "papermill": {
-     "duration": 0.128809,
-     "end_time": "2022-04-05T10:56:46.736961",
+     "duration": 0.1371,
+     "end_time": "2022-04-05T11:52:41.463717",
      "exception": false,
-     "start_time": "2022-04-05T10:56:46.608152",
+     "start_time": "2022-04-05T11:52:41.326617",
      "status": "completed"
     },
     "tags": []
@@ -980,13 +980,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "10d0671b",
+   "id": "0cd65bdc",
    "metadata": {
     "papermill": {
-     "duration": 0.125521,
-     "end_time": "2022-04-05T10:56:46.996052",
+     "duration": 0.123227,
+     "end_time": "2022-04-05T11:52:41.719429",
      "exception": false,
-     "start_time": "2022-04-05T10:56:46.870531",
+     "start_time": "2022-04-05T11:52:41.596202",
      "status": "completed"
     },
     "tags": []
@@ -1011,13 +1011,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ae877484",
+   "id": "f2377f5d",
    "metadata": {
     "papermill": {
-     "duration": 0.123895,
-     "end_time": "2022-04-05T10:56:47.242327",
+     "duration": 0.123051,
+     "end_time": "2022-04-05T11:52:41.977277",
      "exception": false,
-     "start_time": "2022-04-05T10:56:47.118432",
+     "start_time": "2022-04-05T11:52:41.854226",
      "status": "completed"
     },
     "tags": []
@@ -1033,19 +1033,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "26ac38dc",
+   "id": "df806efe",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:47.498359Z",
-     "iopub.status.busy": "2022-04-05T10:56:47.496076Z",
-     "iopub.status.idle": "2022-04-05T10:56:51.836811Z",
-     "shell.execute_reply": "2022-04-05T10:56:51.834207Z"
+     "iopub.execute_input": "2022-04-05T11:52:42.247229Z",
+     "iopub.status.busy": "2022-04-05T11:52:42.246581Z",
+     "iopub.status.idle": "2022-04-05T11:52:45.700855Z",
+     "shell.execute_reply": "2022-04-05T11:52:45.699270Z"
     },
     "papermill": {
-     "duration": 4.472111,
-     "end_time": "2022-04-05T10:56:51.837026",
+     "duration": 3.583399,
+     "end_time": "2022-04-05T11:52:45.701006",
      "exception": false,
-     "start_time": "2022-04-05T10:56:47.364915",
+     "start_time": "2022-04-05T11:52:42.117607",
      "status": "completed"
     },
     "tags": []
@@ -1122,19 +1122,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "e644d2b4",
+   "id": "1006f305",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:52.086015Z",
-     "iopub.status.busy": "2022-04-05T10:56:52.083569Z",
-     "iopub.status.idle": "2022-04-05T10:56:52.139511Z",
-     "shell.execute_reply": "2022-04-05T10:56:52.137471Z"
+     "iopub.execute_input": "2022-04-05T11:52:45.959710Z",
+     "iopub.status.busy": "2022-04-05T11:52:45.958252Z",
+     "iopub.status.idle": "2022-04-05T11:52:46.001086Z",
+     "shell.execute_reply": "2022-04-05T11:52:45.999808Z"
     },
     "papermill": {
-     "duration": 0.183473,
-     "end_time": "2022-04-05T10:56:52.139709",
+     "duration": 0.174283,
+     "end_time": "2022-04-05T11:52:46.001249",
      "exception": false,
-     "start_time": "2022-04-05T10:56:51.956236",
+     "start_time": "2022-04-05T11:52:45.826966",
      "status": "completed"
     },
     "tags": []
@@ -1218,13 +1218,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4e615e6d",
+   "id": "f9a9d4e8",
    "metadata": {
     "papermill": {
-     "duration": 0.124275,
-     "end_time": "2022-04-05T10:56:52.390040",
+     "duration": 0.133912,
+     "end_time": "2022-04-05T11:52:46.265093",
      "exception": false,
-     "start_time": "2022-04-05T10:56:52.265765",
+     "start_time": "2022-04-05T11:52:46.131181",
      "status": "completed"
     },
     "tags": []
@@ -1237,13 +1237,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7df67019",
+   "id": "0c9132a9",
    "metadata": {
     "papermill": {
-     "duration": 0.125788,
-     "end_time": "2022-04-05T10:56:52.638853",
+     "duration": 0.134269,
+     "end_time": "2022-04-05T11:52:46.532077",
      "exception": false,
-     "start_time": "2022-04-05T10:56:52.513065",
+     "start_time": "2022-04-05T11:52:46.397808",
      "status": "completed"
     },
     "tags": []
@@ -1257,19 +1257,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "9a40d947",
+   "id": "99df88b8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:52.902984Z",
-     "iopub.status.busy": "2022-04-05T10:56:52.901086Z",
-     "iopub.status.idle": "2022-04-05T10:56:52.954784Z",
-     "shell.execute_reply": "2022-04-05T10:56:52.952862Z"
+     "iopub.execute_input": "2022-04-05T11:52:46.804026Z",
+     "iopub.status.busy": "2022-04-05T11:52:46.802327Z",
+     "iopub.status.idle": "2022-04-05T11:52:46.844902Z",
+     "shell.execute_reply": "2022-04-05T11:52:46.843382Z"
     },
     "papermill": {
-     "duration": 0.187741,
-     "end_time": "2022-04-05T10:56:52.955015",
+     "duration": 0.182493,
+     "end_time": "2022-04-05T11:52:46.845056",
      "exception": false,
-     "start_time": "2022-04-05T10:56:52.767274",
+     "start_time": "2022-04-05T11:52:46.662563",
      "status": "completed"
     },
     "tags": []
@@ -1340,13 +1340,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9ce2434d",
+   "id": "6d5e5e2f",
    "metadata": {
     "papermill": {
-     "duration": 0.124979,
-     "end_time": "2022-04-05T10:56:53.211559",
+     "duration": 0.131793,
+     "end_time": "2022-04-05T11:52:47.109318",
      "exception": false,
-     "start_time": "2022-04-05T10:56:53.086580",
+     "start_time": "2022-04-05T11:52:46.977525",
      "status": "completed"
     },
     "tags": []
@@ -1357,13 +1357,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "02dc0b95",
+   "id": "ed1f378c",
    "metadata": {
     "papermill": {
-     "duration": 0.131032,
-     "end_time": "2022-04-05T10:56:53.473853",
+     "duration": 0.132188,
+     "end_time": "2022-04-05T11:52:47.373238",
      "exception": false,
-     "start_time": "2022-04-05T10:56:53.342821",
+     "start_time": "2022-04-05T11:52:47.241050",
      "status": "completed"
     },
     "tags": []
@@ -1374,13 +1374,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "969522aa",
+   "id": "07e369c5",
    "metadata": {
     "papermill": {
-     "duration": 0.135418,
-     "end_time": "2022-04-05T10:56:53.755299",
+     "duration": 0.131326,
+     "end_time": "2022-04-05T11:52:47.636162",
      "exception": false,
-     "start_time": "2022-04-05T10:56:53.619881",
+     "start_time": "2022-04-05T11:52:47.504836",
      "status": "completed"
     },
     "tags": []
@@ -1391,13 +1391,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bd3036c0",
+   "id": "a84eb0f5",
    "metadata": {
     "papermill": {
-     "duration": 0.135527,
-     "end_time": "2022-04-05T10:56:54.046210",
+     "duration": 0.132188,
+     "end_time": "2022-04-05T11:52:47.899619",
      "exception": false,
-     "start_time": "2022-04-05T10:56:53.910683",
+     "start_time": "2022-04-05T11:52:47.767431",
      "status": "completed"
     },
     "tags": []
@@ -1409,19 +1409,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "2b531057",
+   "id": "7f3f1a6e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:54.331360Z",
-     "iopub.status.busy": "2022-04-05T10:56:54.328202Z",
-     "iopub.status.idle": "2022-04-05T10:56:54.395454Z",
-     "shell.execute_reply": "2022-04-05T10:56:54.393392Z"
+     "iopub.execute_input": "2022-04-05T11:52:48.169859Z",
+     "iopub.status.busy": "2022-04-05T11:52:48.168018Z",
+     "iopub.status.idle": "2022-04-05T11:52:48.218732Z",
+     "shell.execute_reply": "2022-04-05T11:52:48.217176Z"
     },
     "papermill": {
-     "duration": 0.210834,
-     "end_time": "2022-04-05T10:56:54.395686",
+     "duration": 0.186352,
+     "end_time": "2022-04-05T11:52:48.218875",
      "exception": false,
-     "start_time": "2022-04-05T10:56:54.184852",
+     "start_time": "2022-04-05T11:52:48.032523",
      "status": "completed"
     },
     "tags": []
@@ -1444,19 +1444,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "399d294e",
+   "id": "cb7e42ba",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-05T10:56:54.669877Z",
-     "iopub.status.busy": "2022-04-05T10:56:54.667689Z",
-     "iopub.status.idle": "2022-04-05T10:56:54.736509Z",
-     "shell.execute_reply": "2022-04-05T10:56:54.733940Z"
+     "iopub.execute_input": "2022-04-05T11:52:48.491588Z",
+     "iopub.status.busy": "2022-04-05T11:52:48.489568Z",
+     "iopub.status.idle": "2022-04-05T11:52:48.542403Z",
+     "shell.execute_reply": "2022-04-05T11:52:48.540342Z"
     },
     "papermill": {
-     "duration": 0.20806,
-     "end_time": "2022-04-05T10:56:54.736750",
+     "duration": 0.189648,
+     "end_time": "2022-04-05T11:52:48.542600",
      "exception": false,
-     "start_time": "2022-04-05T10:56:54.528690",
+     "start_time": "2022-04-05T11:52:48.352952",
      "status": "completed"
     },
     "tags": []
@@ -1491,19 +1491,722 @@
   },
   {
    "cell_type": "markdown",
-   "id": "47b74481",
+   "id": "e303df3c",
    "metadata": {
     "papermill": {
-     "duration": 0.144486,
-     "end_time": "2022-04-05T10:56:55.022135",
+     "duration": 0.134817,
+     "end_time": "2022-04-05T11:52:48.810936",
      "exception": false,
-     "start_time": "2022-04-05T10:56:54.877649",
+     "start_time": "2022-04-05T11:52:48.676119",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
     "**Interpretation:** the p-value is 0.1185, suggesting that there is no significant evidence to show that the model is a poor fit to the data. "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "afcd7997",
+   "metadata": {
+    "papermill": {
+     "duration": 0.134335,
+     "end_time": "2022-04-05T11:52:49.083722",
+     "exception": false,
+     "start_time": "2022-04-05T11:52:48.949387",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Appendix\n",
+    "\n",
+    "**Calculating the univariate analysis for the 'forward selection method' part above**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "22fb7ced",
+   "metadata": {
+    "papermill": {
+     "duration": 0.13439,
+     "end_time": "2022-04-05T11:52:49.352203",
+     "exception": false,
+     "start_time": "2022-04-05T11:52:49.217813",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "10a72b59",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-04-05T11:52:49.625914Z",
+     "iopub.status.busy": "2022-04-05T11:52:49.624413Z",
+     "iopub.status.idle": "2022-04-05T11:52:49.985184Z",
+     "shell.execute_reply": "2022-04-05T11:52:49.983773Z"
+    },
+    "papermill": {
+     "duration": 0.499674,
+     "end_time": "2022-04-05T11:52:49.985335",
+     "exception": false,
+     "start_time": "2022-04-05T11:52:49.485661",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 4 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>Estimate</th><th scope=col>Std. Error</th><th scope=col>z value</th><th scope=col>Pr(&gt;|z|)</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td> 1.056589</td><td>0.1289864</td><td>  8.191477</td><td>2.580394e-16</td></tr>\n",
+       "\t<tr><th scope=row>Sexmale</th><td>-2.513710</td><td>0.1671782</td><td>-15.036107</td><td>4.258662e-51</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 4 of type dbl\n",
+       "\\begin{tabular}{r|llll}\n",
+       "  & Estimate & Std. Error & z value & Pr(>\\textbar{}z\\textbar{})\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) &  1.056589 & 0.1289864 &   8.191477 & 2.580394e-16\\\\\n",
+       "\tSexmale & -2.513710 & 0.1671782 & -15.036107 & 4.258662e-51\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 4 of type dbl\n",
+       "\n",
+       "| <!--/--> | Estimate | Std. Error | z value | Pr(&gt;|z|) |\n",
+       "|---|---|---|---|---|\n",
+       "| (Intercept) |  1.056589 | 0.1289864 |   8.191477 | 2.580394e-16 |\n",
+       "| Sexmale | -2.513710 | 0.1671782 | -15.036107 | 4.258662e-51 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            Estimate  Std. Error z value    Pr(>|z|)    \n",
+       "(Intercept)  1.056589 0.1289864    8.191477 2.580394e-16\n",
+       "Sexmale     -2.513710 0.1671782  -15.036107 4.258662e-51"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<style>\n",
+       ".dl-inline {width: auto; margin:0; padding: 0}\n",
+       ".dl-inline>dt, .dl-inline>dd {float: none; width: auto; display: inline-block}\n",
+       ".dl-inline>dt::after {content: \":\\0020\"; padding-right: .5ex}\n",
+       ".dl-inline>dt:not(:first-of-type) {padding-left: .5ex}\n",
+       "</style><dl class=dl-inline><dt>(Intercept)</dt><dd>2.8765432098679</dd><dt>Sexmale</dt><dd>0.0809673159461025</dd></dl>\n"
+      ],
+      "text/latex": [
+       "\\begin{description*}\n",
+       "\\item[(Intercept)] 2.8765432098679\n",
+       "\\item[Sexmale] 0.0809673159461025\n",
+       "\\end{description*}\n"
+      ],
+      "text/markdown": [
+       "(Intercept)\n",
+       ":   2.8765432098679Sexmale\n",
+       ":   0.0809673159461025\n",
+       "\n"
+      ],
+      "text/plain": [
+       "(Intercept)     Sexmale \n",
+       " 2.87654321  0.08096732 "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Waiting for profiling to be done...\n",
+      "\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 2 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>2.5 %</th><th scope=col>97.5 %</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>2.24473635</td><td>3.7245050</td></tr>\n",
+       "\t<tr><th scope=row>Sexmale</th><td>0.05804709</td><td>0.1118353</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 2 of type dbl\n",
+       "\\begin{tabular}{r|ll}\n",
+       "  & 2.5 \\% & 97.5 \\%\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & 2.24473635 & 3.7245050\\\\\n",
+       "\tSexmale & 0.05804709 & 0.1118353\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 2 of type dbl\n",
+       "\n",
+       "| <!--/--> | 2.5 % | 97.5 % |\n",
+       "|---|---|---|\n",
+       "| (Intercept) | 2.24473635 | 3.7245050 |\n",
+       "| Sexmale | 0.05804709 | 0.1118353 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            2.5 %      97.5 %   \n",
+       "(Intercept) 2.24473635 3.7245050\n",
+       "Sexmale     0.05804709 0.1118353"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 4 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>Estimate</th><th scope=col>Std. Error</th><th scope=col>z value</th><th scope=col>Pr(&gt;|z|)</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>-0.05672364</td><td>0.17358043</td><td>-0.3267859</td><td>0.74382982</td></tr>\n",
+       "\t<tr><th scope=row>Age</th><td>-0.01096345</td><td>0.00532994</td><td>-2.0569560</td><td>0.03969046</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 4 of type dbl\n",
+       "\\begin{tabular}{r|llll}\n",
+       "  & Estimate & Std. Error & z value & Pr(>\\textbar{}z\\textbar{})\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & -0.05672364 & 0.17358043 & -0.3267859 & 0.74382982\\\\\n",
+       "\tAge & -0.01096345 & 0.00532994 & -2.0569560 & 0.03969046\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 4 of type dbl\n",
+       "\n",
+       "| <!--/--> | Estimate | Std. Error | z value | Pr(&gt;|z|) |\n",
+       "|---|---|---|---|---|\n",
+       "| (Intercept) | -0.05672364 | 0.17358043 | -0.3267859 | 0.74382982 |\n",
+       "| Age | -0.01096345 | 0.00532994 | -2.0569560 | 0.03969046 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            Estimate    Std. Error z value    Pr(>|z|)  \n",
+       "(Intercept) -0.05672364 0.17358043 -0.3267859 0.74382982\n",
+       "Age         -0.01096345 0.00532994 -2.0569560 0.03969046"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<style>\n",
+       ".dl-inline {width: auto; margin:0; padding: 0}\n",
+       ".dl-inline>dt, .dl-inline>dd {float: none; width: auto; display: inline-block}\n",
+       ".dl-inline>dt::after {content: \":\\0020\"; padding-right: .5ex}\n",
+       ".dl-inline>dt:not(:first-of-type) {padding-left: .5ex}\n",
+       "</style><dl class=dl-inline><dt>(Intercept)</dt><dd>0.944855153188964</dd><dt>Age</dt><dd>0.989096426716741</dd></dl>\n"
+      ],
+      "text/latex": [
+       "\\begin{description*}\n",
+       "\\item[(Intercept)] 0.944855153188964\n",
+       "\\item[Age] 0.989096426716741\n",
+       "\\end{description*}\n"
+      ],
+      "text/markdown": [
+       "(Intercept)\n",
+       ":   0.944855153188964Age\n",
+       ":   0.989096426716741\n",
+       "\n"
+      ],
+      "text/plain": [
+       "(Intercept)         Age \n",
+       "  0.9448552   0.9890964 "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Waiting for profiling to be done...\n",
+      "\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 2 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>2.5 %</th><th scope=col>97.5 %</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>0.6722345</td><td>1.328528</td></tr>\n",
+       "\t<tr><th scope=row>Age</th><td>0.9787246</td><td>0.999417</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 2 of type dbl\n",
+       "\\begin{tabular}{r|ll}\n",
+       "  & 2.5 \\% & 97.5 \\%\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & 0.6722345 & 1.328528\\\\\n",
+       "\tAge & 0.9787246 & 0.999417\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 2 of type dbl\n",
+       "\n",
+       "| <!--/--> | 2.5 % | 97.5 % |\n",
+       "|---|---|---|\n",
+       "| (Intercept) | 0.6722345 | 1.328528 |\n",
+       "| Age | 0.9787246 | 0.999417 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            2.5 %     97.5 %  \n",
+       "(Intercept) 0.6722345 1.328528\n",
+       "Age         0.9787246 0.999417"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 4 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>Estimate</th><th scope=col>Std. Error</th><th scope=col>z value</th><th scope=col>Pr(&gt;|z|)</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>-0.43815351</td><td>0.07627531</td><td>-5.744369</td><td>9.226465e-09</td></tr>\n",
+       "\t<tr><th scope=row>SibSp</th><td>-0.06863757</td><td>0.06538012</td><td>-1.049823</td><td>2.937994e-01</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 4 of type dbl\n",
+       "\\begin{tabular}{r|llll}\n",
+       "  & Estimate & Std. Error & z value & Pr(>\\textbar{}z\\textbar{})\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & -0.43815351 & 0.07627531 & -5.744369 & 9.226465e-09\\\\\n",
+       "\tSibSp & -0.06863757 & 0.06538012 & -1.049823 & 2.937994e-01\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 4 of type dbl\n",
+       "\n",
+       "| <!--/--> | Estimate | Std. Error | z value | Pr(&gt;|z|) |\n",
+       "|---|---|---|---|---|\n",
+       "| (Intercept) | -0.43815351 | 0.07627531 | -5.744369 | 9.226465e-09 |\n",
+       "| SibSp | -0.06863757 | 0.06538012 | -1.049823 | 2.937994e-01 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            Estimate    Std. Error z value   Pr(>|z|)    \n",
+       "(Intercept) -0.43815351 0.07627531 -5.744369 9.226465e-09\n",
+       "SibSp       -0.06863757 0.06538012 -1.049823 2.937994e-01"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<style>\n",
+       ".dl-inline {width: auto; margin:0; padding: 0}\n",
+       ".dl-inline>dt, .dl-inline>dd {float: none; width: auto; display: inline-block}\n",
+       ".dl-inline>dt::after {content: \":\\0020\"; padding-right: .5ex}\n",
+       ".dl-inline>dt:not(:first-of-type) {padding-left: .5ex}\n",
+       "</style><dl class=dl-inline><dt>(Intercept)</dt><dd>0.645226726283567</dd><dt>SibSp</dt><dd>0.933665011102071</dd></dl>\n"
+      ],
+      "text/latex": [
+       "\\begin{description*}\n",
+       "\\item[(Intercept)] 0.645226726283567\n",
+       "\\item[SibSp] 0.933665011102071\n",
+       "\\end{description*}\n"
+      ],
+      "text/markdown": [
+       "(Intercept)\n",
+       ":   0.645226726283567SibSp\n",
+       ":   0.933665011102071\n",
+       "\n"
+      ],
+      "text/plain": [
+       "(Intercept)       SibSp \n",
+       "  0.6452267   0.9336650 "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Waiting for profiling to be done...\n",
+      "\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 2 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>2.5 %</th><th scope=col>97.5 %</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>0.5552380</td><td>0.7488431</td></tr>\n",
+       "\t<tr><th scope=row>SibSp</th><td>0.8170399</td><td>1.0575496</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 2 of type dbl\n",
+       "\\begin{tabular}{r|ll}\n",
+       "  & 2.5 \\% & 97.5 \\%\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & 0.5552380 & 0.7488431\\\\\n",
+       "\tSibSp & 0.8170399 & 1.0575496\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 2 of type dbl\n",
+       "\n",
+       "| <!--/--> | 2.5 % | 97.5 % |\n",
+       "|---|---|---|\n",
+       "| (Intercept) | 0.5552380 | 0.7488431 |\n",
+       "| SibSp | 0.8170399 | 1.0575496 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            2.5 %     97.5 %   \n",
+       "(Intercept) 0.5552380 0.7488431\n",
+       "SibSp       0.8170399 1.0575496"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 4 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>Estimate</th><th scope=col>Std. Error</th><th scope=col>z value</th><th scope=col>Pr(&gt;|z|)</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>-0.5530505</td><td>0.07689347</td><td>-7.192424</td><td>6.365087e-13</td></tr>\n",
+       "\t<tr><th scope=row>Parch</th><td> 0.2033171</td><td>0.08461546</td><td> 2.402836</td><td>1.626847e-02</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 4 of type dbl\n",
+       "\\begin{tabular}{r|llll}\n",
+       "  & Estimate & Std. Error & z value & Pr(>\\textbar{}z\\textbar{})\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & -0.5530505 & 0.07689347 & -7.192424 & 6.365087e-13\\\\\n",
+       "\tParch &  0.2033171 & 0.08461546 &  2.402836 & 1.626847e-02\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 4 of type dbl\n",
+       "\n",
+       "| <!--/--> | Estimate | Std. Error | z value | Pr(&gt;|z|) |\n",
+       "|---|---|---|---|---|\n",
+       "| (Intercept) | -0.5530505 | 0.07689347 | -7.192424 | 6.365087e-13 |\n",
+       "| Parch |  0.2033171 | 0.08461546 |  2.402836 | 1.626847e-02 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            Estimate   Std. Error z value   Pr(>|z|)    \n",
+       "(Intercept) -0.5530505 0.07689347 -7.192424 6.365087e-13\n",
+       "Parch        0.2033171 0.08461546  2.402836 1.626847e-02"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<style>\n",
+       ".dl-inline {width: auto; margin:0; padding: 0}\n",
+       ".dl-inline>dt, .dl-inline>dd {float: none; width: auto; display: inline-block}\n",
+       ".dl-inline>dt::after {content: \":\\0020\"; padding-right: .5ex}\n",
+       ".dl-inline>dt:not(:first-of-type) {padding-left: .5ex}\n",
+       "</style><dl class=dl-inline><dt>(Intercept)</dt><dd>0.575192527295791</dd><dt>Parch</dt><dd>1.22546098130117</dd></dl>\n"
+      ],
+      "text/latex": [
+       "\\begin{description*}\n",
+       "\\item[(Intercept)] 0.575192527295791\n",
+       "\\item[Parch] 1.22546098130117\n",
+       "\\end{description*}\n"
+      ],
+      "text/markdown": [
+       "(Intercept)\n",
+       ":   0.575192527295791Parch\n",
+       ":   1.22546098130117\n",
+       "\n"
+      ],
+      "text/plain": [
+       "(Intercept)       Parch \n",
+       "  0.5751925   1.2254610 "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Waiting for profiling to be done...\n",
+      "\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 2 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>2.5 %</th><th scope=col>97.5 %</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>0.4941937</td><td>0.6681342</td></tr>\n",
+       "\t<tr><th scope=row>Parch</th><td>1.0388432</td><td>1.4493761</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 2 of type dbl\n",
+       "\\begin{tabular}{r|ll}\n",
+       "  & 2.5 \\% & 97.5 \\%\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & 0.4941937 & 0.6681342\\\\\n",
+       "\tParch & 1.0388432 & 1.4493761\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 2 of type dbl\n",
+       "\n",
+       "| <!--/--> | 2.5 % | 97.5 % |\n",
+       "|---|---|---|\n",
+       "| (Intercept) | 0.4941937 | 0.6681342 |\n",
+       "| Parch | 1.0388432 | 1.4493761 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            2.5 %     97.5 %   \n",
+       "(Intercept) 0.4941937 0.6681342\n",
+       "Parch       1.0388432 1.4493761"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 4 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>Estimate</th><th scope=col>Std. Error</th><th scope=col>z value</th><th scope=col>Pr(&gt;|z|)</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>-0.94132990</td><td>0.095129144</td><td>-9.895284</td><td>4.363702e-23</td></tr>\n",
+       "\t<tr><th scope=row>Fare</th><td> 0.01519687</td><td>0.002231678</td><td> 6.809614</td><td>9.786127e-12</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 4 of type dbl\n",
+       "\\begin{tabular}{r|llll}\n",
+       "  & Estimate & Std. Error & z value & Pr(>\\textbar{}z\\textbar{})\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & -0.94132990 & 0.095129144 & -9.895284 & 4.363702e-23\\\\\n",
+       "\tFare &  0.01519687 & 0.002231678 &  6.809614 & 9.786127e-12\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 4 of type dbl\n",
+       "\n",
+       "| <!--/--> | Estimate | Std. Error | z value | Pr(&gt;|z|) |\n",
+       "|---|---|---|---|---|\n",
+       "| (Intercept) | -0.94132990 | 0.095129144 | -9.895284 | 4.363702e-23 |\n",
+       "| Fare |  0.01519687 | 0.002231678 |  6.809614 | 9.786127e-12 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            Estimate    Std. Error  z value   Pr(>|z|)    \n",
+       "(Intercept) -0.94132990 0.095129144 -9.895284 4.363702e-23\n",
+       "Fare         0.01519687 0.002231678  6.809614 9.786127e-12"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<style>\n",
+       ".dl-inline {width: auto; margin:0; padding: 0}\n",
+       ".dl-inline>dt, .dl-inline>dd {float: none; width: auto; display: inline-block}\n",
+       ".dl-inline>dt::after {content: \":\\0020\"; padding-right: .5ex}\n",
+       ".dl-inline>dt:not(:first-of-type) {padding-left: .5ex}\n",
+       "</style><dl class=dl-inline><dt>(Intercept)</dt><dd>0.390108686435372</dd><dt>Fare</dt><dd>1.01531292542392</dd></dl>\n"
+      ],
+      "text/latex": [
+       "\\begin{description*}\n",
+       "\\item[(Intercept)] 0.390108686435372\n",
+       "\\item[Fare] 1.01531292542392\n",
+       "\\end{description*}\n"
+      ],
+      "text/markdown": [
+       "(Intercept)\n",
+       ":   0.390108686435372Fare\n",
+       ":   1.01531292542392\n",
+       "\n"
+      ],
+      "text/plain": [
+       "(Intercept)        Fare \n",
+       "  0.3901087   1.0153129 "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Waiting for profiling to be done...\n",
+      "\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A matrix: 2 × 2 of type dbl</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>2.5 %</th><th scope=col>97.5 %</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>(Intercept)</th><td>0.3228641</td><td>0.4688783</td></tr>\n",
+       "\t<tr><th scope=row>Fare</th><td>1.0110823</td><td>1.0199700</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A matrix: 2 × 2 of type dbl\n",
+       "\\begin{tabular}{r|ll}\n",
+       "  & 2.5 \\% & 97.5 \\%\\\\\n",
+       "\\hline\n",
+       "\t(Intercept) & 0.3228641 & 0.4688783\\\\\n",
+       "\tFare & 1.0110823 & 1.0199700\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A matrix: 2 × 2 of type dbl\n",
+       "\n",
+       "| <!--/--> | 2.5 % | 97.5 % |\n",
+       "|---|---|---|\n",
+       "| (Intercept) | 0.3228641 | 0.4688783 |\n",
+       "| Fare | 1.0110823 | 1.0199700 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "            2.5 %     97.5 %   \n",
+       "(Intercept) 0.3228641 0.4688783\n",
+       "Fare        1.0110823 1.0199700"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "# model 1's predictor: sex\n",
+    "model1 <- glm(Survived ~ Sex, data = titanic, family = binomial)\n",
+    "summary(model1)$coef\n",
+    "\n",
+    "exp(coefficients(model1))\n",
+    "exp(confint(model1))\n",
+    "\n",
+    "# model 2's predictor: age\n",
+    "model2 <- glm(Survived ~ Age, data = titanic, family = binomial)\n",
+    "summary(model2)$coef\n",
+    "\n",
+    "exp(coefficients(model2))\n",
+    "exp(confint(model2))\n",
+    "\n",
+    "# model 3's predictor: # of siblings / spouses aboard the Titanic\n",
+    "model3 <- glm(Survived ~ SibSp, data = titanic, family = binomial)\n",
+    "summary(model3)$coef\n",
+    "\n",
+    "exp(coefficients(model3))\n",
+    "exp(confint(model3))\n",
+    "\n",
+    "# model 4's predictor: # of parents / children aboard the Titanic\n",
+    "model4 <- glm(Survived ~ Parch, data = titanic, family = binomial)\n",
+    "summary(model4)$coef\n",
+    "\n",
+    "exp(coefficients(model4))\n",
+    "exp(confint(model4))\n",
+    "\n",
+    "# model 5'predictor: Passenger Fare\n",
+    "model5 <- glm(Survived ~ Fare, data = titanic, family = binomial)\n",
+    "summary(model5)$coef\n",
+    "\n",
+    "exp(coefficients(model5))\n",
+    "exp(confint(model5))"
    ]
   }
  ],
@@ -1523,14 +2226,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 19.788063,
-   "end_time": "2022-04-05T10:56:55.275203",
+   "duration": 18.93572,
+   "end_time": "2022-04-05T11:52:50.275193",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-04-05T10:56:35.487140",
+   "start_time": "2022-04-05T11:52:31.339473",
    "version": "2.3.3"
   }
  },
