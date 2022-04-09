@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "2aed3456",
+   "id": "3e60efa6",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2022-04-09T04:09:33.376007Z",
-     "iopub.status.busy": "2022-04-09T04:09:33.372950Z",
-     "iopub.status.idle": "2022-04-09T04:09:34.734115Z",
-     "shell.execute_reply": "2022-04-09T04:09:34.734669Z"
+     "iopub.execute_input": "2022-04-09T04:43:37.256753Z",
+     "iopub.status.busy": "2022-04-09T04:43:37.254136Z",
+     "iopub.status.idle": "2022-04-09T04:43:38.444841Z",
+     "shell.execute_reply": "2022-04-09T04:43:38.444140Z"
     },
     "papermill": {
-     "duration": 1.392385,
-     "end_time": "2022-04-09T04:09:34.734943",
+     "duration": 1.217228,
+     "end_time": "2022-04-09T04:43:38.445000",
      "exception": false,
-     "start_time": "2022-04-09T04:09:33.342558",
+     "start_time": "2022-04-09T04:43:37.227772",
      "status": "completed"
     },
     "tags": []
@@ -68,19 +68,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "b65feb66",
+   "id": "314df38c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-09T04:09:34.833493Z",
-     "iopub.status.busy": "2022-04-09T04:09:34.800758Z",
-     "iopub.status.idle": "2022-04-09T04:09:34.872177Z",
-     "shell.execute_reply": "2022-04-09T04:09:34.870631Z"
+     "iopub.execute_input": "2022-04-09T04:43:38.535286Z",
+     "iopub.status.busy": "2022-04-09T04:43:38.502421Z",
+     "iopub.status.idle": "2022-04-09T04:43:38.569026Z",
+     "shell.execute_reply": "2022-04-09T04:43:38.567768Z"
     },
     "papermill": {
-     "duration": 0.105466,
-     "end_time": "2022-04-09T04:09:34.872329",
+     "duration": 0.096688,
+     "end_time": "2022-04-09T04:43:38.569173",
      "exception": false,
-     "start_time": "2022-04-09T04:09:34.766863",
+     "start_time": "2022-04-09T04:43:38.472485",
      "status": "completed"
     },
     "tags": []
@@ -154,13 +154,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3236dfeb",
+   "id": "82d67abb",
    "metadata": {
     "papermill": {
-     "duration": 0.032439,
-     "end_time": "2022-04-09T04:09:34.937363",
+     "duration": 0.025028,
+     "end_time": "2022-04-09T04:43:38.620761",
      "exception": false,
-     "start_time": "2022-04-09T04:09:34.904924",
+     "start_time": "2022-04-09T04:43:38.595733",
      "status": "completed"
     },
     "tags": []
@@ -172,19 +172,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "2bd1834c",
+   "id": "bbd14f65",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-09T04:09:35.006248Z",
-     "iopub.status.busy": "2022-04-09T04:09:35.003958Z",
-     "iopub.status.idle": "2022-04-09T04:09:35.081301Z",
-     "shell.execute_reply": "2022-04-09T04:09:35.079222Z"
+     "iopub.execute_input": "2022-04-09T04:43:38.676058Z",
+     "iopub.status.busy": "2022-04-09T04:43:38.674608Z",
+     "iopub.status.idle": "2022-04-09T04:43:38.738787Z",
+     "shell.execute_reply": "2022-04-09T04:43:38.737272Z"
     },
     "papermill": {
-     "duration": 0.113087,
-     "end_time": "2022-04-09T04:09:35.081492",
+     "duration": 0.092793,
+     "end_time": "2022-04-09T04:43:38.738948",
      "exception": false,
-     "start_time": "2022-04-09T04:09:34.968405",
+     "start_time": "2022-04-09T04:43:38.646155",
      "status": "completed"
     },
     "tags": []
@@ -371,13 +371,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ca881497",
+   "id": "890d8dd6",
    "metadata": {
     "papermill": {
-     "duration": 0.038804,
-     "end_time": "2022-04-09T04:09:35.159278",
+     "duration": 0.0309,
+     "end_time": "2022-04-09T04:43:38.801100",
      "exception": false,
-     "start_time": "2022-04-09T04:09:35.120474",
+     "start_time": "2022-04-09T04:43:38.770200",
      "status": "completed"
     },
     "tags": []
@@ -392,13 +392,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b302650c",
+   "id": "b014feb4",
    "metadata": {
     "papermill": {
-     "duration": 0.038276,
-     "end_time": "2022-04-09T04:09:35.235831",
+     "duration": 0.030806,
+     "end_time": "2022-04-09T04:43:38.864008",
      "exception": false,
-     "start_time": "2022-04-09T04:09:35.197555",
+     "start_time": "2022-04-09T04:43:38.833202",
      "status": "completed"
     },
     "tags": []
@@ -410,19 +410,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "1ef6276b",
+   "id": "b11e3ab5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-04-09T04:09:35.318935Z",
-     "iopub.status.busy": "2022-04-09T04:09:35.316860Z",
-     "iopub.status.idle": "2022-04-09T04:09:35.395091Z",
-     "shell.execute_reply": "2022-04-09T04:09:35.393463Z"
+     "iopub.execute_input": "2022-04-09T04:43:38.930645Z",
+     "iopub.status.busy": "2022-04-09T04:43:38.929107Z",
+     "iopub.status.idle": "2022-04-09T04:43:38.997270Z",
+     "shell.execute_reply": "2022-04-09T04:43:38.995988Z"
     },
     "papermill": {
-     "duration": 0.12076,
-     "end_time": "2022-04-09T04:09:35.395251",
+     "duration": 0.102785,
+     "end_time": "2022-04-09T04:43:38.997396",
      "exception": false,
-     "start_time": "2022-04-09T04:09:35.274491",
+     "start_time": "2022-04-09T04:43:38.894611",
      "status": "completed"
     },
     "tags": []
@@ -610,19 +610,19 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ac9ddb75",
+   "id": "dff9a743",
    "metadata": {
     "papermill": {
-     "duration": 0.046417,
-     "end_time": "2022-04-09T04:09:35.488301",
+     "duration": 0.035706,
+     "end_time": "2022-04-09T04:43:39.069013",
      "exception": false,
-     "start_time": "2022-04-09T04:09:35.441884",
+     "start_time": "2022-04-09T04:43:39.033307",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "**Note: **\n",
+    "**Note:**\n",
     "- median = 0\n",
     "- sample mean != 0\n",
     "- standard deviation != 1\n",
@@ -631,13 +631,267 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0ca043bc",
+   "id": "91152dc6",
    "metadata": {
     "papermill": {
-     "duration": 0.046982,
-     "end_time": "2022-04-09T04:09:35.581791",
+     "duration": 0.035607,
+     "end_time": "2022-04-09T04:43:39.140388",
      "exception": false,
-     "start_time": "2022-04-09T04:09:35.534809",
+     "start_time": "2022-04-09T04:43:39.104781",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "#### Way 3. Min-Max Normalization"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "6b3083dc",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-04-09T04:43:39.217253Z",
+     "iopub.status.busy": "2022-04-09T04:43:39.215867Z",
+     "iopub.status.idle": "2022-04-09T04:43:39.273466Z",
+     "shell.execute_reply": "2022-04-09T04:43:39.272132Z"
+    },
+    "papermill": {
+     "duration": 0.097431,
+     "end_time": "2022-04-09T04:43:39.273603",
+     "exception": false,
+     "start_time": "2022-04-09T04:43:39.176172",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A data.frame: 6 × 2</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>YearsExperience</th><th scope=col>Salary</th></tr>\n",
+       "\t<tr><th></th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>1</th><td>0.00000000</td><td>0.01584524</td></tr>\n",
+       "\t<tr><th scope=row>2</th><td>0.01612903</td><td>0.08329565</td></tr>\n",
+       "\t<tr><th scope=row>3</th><td>0.03225806</td><td>0.00000000</td></tr>\n",
+       "\t<tr><th scope=row>4</th><td>0.07258065</td><td>0.05695244</td></tr>\n",
+       "\t<tr><th scope=row>5</th><td>0.08870968</td><td>0.02123184</td></tr>\n",
+       "\t<tr><th scope=row>6</th><td>0.14516129</td><td>0.18588672</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A data.frame: 6 × 2\n",
+       "\\begin{tabular}{r|ll}\n",
+       "  & YearsExperience & Salary\\\\\n",
+       "  & <dbl> & <dbl>\\\\\n",
+       "\\hline\n",
+       "\t1 & 0.00000000 & 0.01584524\\\\\n",
+       "\t2 & 0.01612903 & 0.08329565\\\\\n",
+       "\t3 & 0.03225806 & 0.00000000\\\\\n",
+       "\t4 & 0.07258065 & 0.05695244\\\\\n",
+       "\t5 & 0.08870968 & 0.02123184\\\\\n",
+       "\t6 & 0.14516129 & 0.18588672\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A data.frame: 6 × 2\n",
+       "\n",
+       "| <!--/--> | YearsExperience &lt;dbl&gt; | Salary &lt;dbl&gt; |\n",
+       "|---|---|---|\n",
+       "| 1 | 0.00000000 | 0.01584524 |\n",
+       "| 2 | 0.01612903 | 0.08329565 |\n",
+       "| 3 | 0.03225806 | 0.00000000 |\n",
+       "| 4 | 0.07258065 | 0.05695244 |\n",
+       "| 5 | 0.08870968 | 0.02123184 |\n",
+       "| 6 | 0.14516129 | 0.18588672 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  YearsExperience Salary    \n",
+       "1 0.00000000      0.01584524\n",
+       "2 0.01612903      0.08329565\n",
+       "3 0.03225806      0.00000000\n",
+       "4 0.07258065      0.05695244\n",
+       "5 0.08870968      0.02123184\n",
+       "6 0.14516129      0.18588672"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A data.frame: 1 × 9</caption>\n",
+       "<thead>\n",
+       "\t<tr><th scope=col>Min</th><th scope=col>Q1</th><th scope=col>Median</th><th scope=col>Q3</th><th scope=col>Max</th><th scope=col>Mean</th><th scope=col>SD</th><th scope=col>n</th><th scope=col>Missing</th></tr>\n",
+       "\t<tr><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><td>0</td><td>0.1895161</td><td>0.3387097</td><td>0.6572581</td><td>1</td><td>0.4200461</td><td>0.2918234</td><td>35</td><td>0</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A data.frame: 1 × 9\n",
+       "\\begin{tabular}{lllllllll}\n",
+       " Min & Q1 & Median & Q3 & Max & Mean & SD & n & Missing\\\\\n",
+       " <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <int> & <int>\\\\\n",
+       "\\hline\n",
+       "\t 0 & 0.1895161 & 0.3387097 & 0.6572581 & 1 & 0.4200461 & 0.2918234 & 35 & 0\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A data.frame: 1 × 9\n",
+       "\n",
+       "| Min &lt;dbl&gt; | Q1 &lt;dbl&gt; | Median &lt;dbl&gt; | Q3 &lt;dbl&gt; | Max &lt;dbl&gt; | Mean &lt;dbl&gt; | SD &lt;dbl&gt; | n &lt;int&gt; | Missing &lt;int&gt; |\n",
+       "|---|---|---|---|---|---|---|---|---|\n",
+       "| 0 | 0.1895161 | 0.3387097 | 0.6572581 | 1 | 0.4200461 | 0.2918234 | 35 | 0 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  Min Q1        Median    Q3        Max Mean      SD        n  Missing\n",
+       "1 0   0.1895161 0.3387097 0.6572581 1   0.4200461 0.2918234 35 0      "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A data.frame: 1 × 9</caption>\n",
+       "<thead>\n",
+       "\t<tr><th scope=col>Min</th><th scope=col>Q1</th><th scope=col>Median</th><th scope=col>Q3</th><th scope=col>Max</th><th scope=col>Mean</th><th scope=col>SD</th><th scope=col>n</th><th scope=col>Missing</th></tr>\n",
+       "\t<tr><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><td>0</td><td>0.1895925</td><td>0.4288832</td><td>0.7420577</td><td>1</td><td>0.454269</td><td>0.3161448</td><td>35</td><td>0</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A data.frame: 1 × 9\n",
+       "\\begin{tabular}{lllllllll}\n",
+       " Min & Q1 & Median & Q3 & Max & Mean & SD & n & Missing\\\\\n",
+       " <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <int> & <int>\\\\\n",
+       "\\hline\n",
+       "\t 0 & 0.1895925 & 0.4288832 & 0.7420577 & 1 & 0.454269 & 0.3161448 & 35 & 0\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A data.frame: 1 × 9\n",
+       "\n",
+       "| Min &lt;dbl&gt; | Q1 &lt;dbl&gt; | Median &lt;dbl&gt; | Q3 &lt;dbl&gt; | Max &lt;dbl&gt; | Mean &lt;dbl&gt; | SD &lt;dbl&gt; | n &lt;int&gt; | Missing &lt;int&gt; |\n",
+       "|---|---|---|---|---|---|---|---|---|\n",
+       "| 0 | 0.1895925 | 0.4288832 | 0.7420577 | 1 | 0.454269 | 0.3161448 | 35 | 0 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  Min Q1        Median    Q3        Max Mean     SD        n  Missing\n",
+       "1 0   0.1895925 0.4288832 0.7420577 1   0.454269 0.3161448 35 0      "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "# formula\n",
+    "norm_minmax <- function(x) {\n",
+    "    (x- min(x)) /(max(x)-min(x))\n",
+    "}\n",
+    "\n",
+    "# apply to dataframe\n",
+    "normalize_salary <- as.data.frame(\n",
+    "    lapply(data, norm_minmax)\n",
+    ")\n",
+    "\n",
+    "head(normalize_salary)\n",
+    "\n",
+    "normalize_salary %>%\n",
+    "    summarize(\n",
+    "        Min = min(YearsExperience,na.rm = TRUE),\n",
+    "        Q1 = quantile(YearsExperience,probs = .25,na.rm = TRUE),\n",
+    "        Median = median(YearsExperience, na.rm = TRUE),\n",
+    "        Q3 = quantile(YearsExperience,probs = .75,na.rm = TRUE),\n",
+    "        Max = max(YearsExperience,na.rm = TRUE),\n",
+    "        Mean = mean(YearsExperience, na.rm = TRUE),\n",
+    "        SD = sd(YearsExperience, na.rm = TRUE),\n",
+    "        n = n(),\n",
+    "        Missing = sum(is.na(YearsExperience))\n",
+    "    )\n",
+    "\n",
+    "normalize_salary %>%\n",
+    "    summarize(\n",
+    "        Min = min(Salary,na.rm = TRUE),\n",
+    "        Q1 = quantile(Salary,probs = .25,na.rm = TRUE),\n",
+    "        Median = median(Salary, na.rm = TRUE),\n",
+    "        Q3 = quantile(Salary,probs = .75,na.rm = TRUE),\n",
+    "        Max = max(Salary,na.rm = TRUE),\n",
+    "        Mean = mean(Salary, na.rm = TRUE),\n",
+    "        SD = sd(Salary, na.rm = TRUE),\n",
+    "        n = n(),\n",
+    "        Missing = sum(is.na(Salary))\n",
+    "    )"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "af5e27c2",
+   "metadata": {
+    "papermill": {
+     "duration": 0.041385,
+     "end_time": "2022-04-09T04:43:39.356252",
+     "exception": false,
+     "start_time": "2022-04-09T04:43:39.314867",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "**Note:** \n",
+    "1. 'min' value of the feature gets normalized to 0\n",
+    "2. 'max' value of the feature gets normalized to 1\n",
+    "3. the remaining values [0, 1]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "26d9e263",
+   "metadata": {
+    "papermill": {
+     "duration": 0.041393,
+     "end_time": "2022-04-09T04:43:39.438674",
+     "exception": false,
+     "start_time": "2022-04-09T04:43:39.397281",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "420dcd31",
+   "metadata": {
+    "papermill": {
+     "duration": 0.041866,
+     "end_time": "2022-04-09T04:43:39.521613",
+     "exception": false,
+     "start_time": "2022-04-09T04:43:39.479747",
      "status": "completed"
     },
     "tags": []
@@ -661,14 +915,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 5.769184,
-   "end_time": "2022-04-09T04:09:35.738975",
+   "duration": 5.35215,
+   "end_time": "2022-04-09T04:43:39.671882",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-04-09T04:09:29.969791",
+   "start_time": "2022-04-09T04:43:34.319732",
    "version": "2.3.3"
   }
  },
